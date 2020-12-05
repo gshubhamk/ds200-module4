@@ -9,9 +9,14 @@ This repository contains data on
 
 The source of these two data is https://data.gov.in/. \ 
 We then obtain the following plots for the above data
-### Bar Plot for Number of faculties in each of the IITs
+### Bar plot for number of faculties in each of the IITs
 
 <img src="plots/faculties_bar.png?raw=true"/>
+
+### Scatter plot for faculties in position vs strength 
+
+<img src="plots/faculties_scatter.png?raw=true"/>
+
 
 ## References
 ---
