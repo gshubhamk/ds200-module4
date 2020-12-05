@@ -7,8 +7,9 @@ This repository contains data on
   - number of faculties in IITs and
   - consumption of Liquefied Petroleum Gas over the years 2012-19
 
-The source of these two data is https://data.gov.in/. \ 
-We then obtain the following plots for the above data
+The source of these two data is https://data.gov.in/.
+
+The following are plots and observations for the above two data
 ### Bar plot for number of faculties in each of the IITs
 
 <img src="plots/faculties_bar.png?raw=true"/>
